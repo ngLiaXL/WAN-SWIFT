@@ -1,0 +1,6 @@
+framework module Pods_WAN_SWIFT {
+  umbrella header "Pods-WAN-SWIFT-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WAN_SWIFTTests {
+  umbrella header "Pods-WAN-SWIFTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

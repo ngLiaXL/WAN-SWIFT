@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.3.0)
+  - Bugly (2.5.71)
+  - HandyJSON (5.0.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Bugly
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bugly
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  Bugly: fd066c75c4a0eca1440f9b6a84bd37d51bfc85ac
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 7b8c004415acaf9f47840c758bf1c25a21d41acd
+
+COCOAPODS: 1.9.3
